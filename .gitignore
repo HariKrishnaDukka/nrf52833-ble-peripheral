@@ -1,0 +1,7 @@
+build/
+*.o
+*.elf
+*.hex
+*.map
+.west/
+compile_commands.json
